@@ -21,4 +21,14 @@
     const Mercy = new Following("Mercy")
     Mercy.addUser("Mercy")
     Mercy.addUser("Valary")
+    Mercy.addUser("Mercy")
     console.log(Mercy)
+
+
+    //Create a data class that sorts the students scores in ascending order
+
+    class Student {
+        constructor() {
+            this.name =name;
+            this.scores = [];
+        }}
