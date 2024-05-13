@@ -220,5 +220,6 @@ function finalPrice(purchaseAmount,discountPercentage){
 console.log(finalPrice(100,5))
 
 
+
                         
                      
